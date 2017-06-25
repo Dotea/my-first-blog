@@ -25,7 +25,7 @@ SECRET_KEY = 'bm5o-r4xakejg*c@&=bv=eq)1@-g3!^vk3g@sxdqgn6k#!o)n$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["dorota.pythonanywhere.com"]
 
 
 # Application definition
